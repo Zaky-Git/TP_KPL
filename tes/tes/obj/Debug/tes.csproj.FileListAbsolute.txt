@@ -1,0 +1,6 @@
+D:\Zaky\Kuliah\Semester 4\Kontruksi Perangkat Lunak\tes\tes\bin\Debug\tes.exe.config
+D:\Zaky\Kuliah\Semester 4\Kontruksi Perangkat Lunak\tes\tes\bin\Debug\tes.exe
+D:\Zaky\Kuliah\Semester 4\Kontruksi Perangkat Lunak\tes\tes\bin\Debug\tes.pdb
+D:\Zaky\Kuliah\Semester 4\Kontruksi Perangkat Lunak\tes\tes\obj\Debug\tes.csproj.CoreCompileInputs.cache
+D:\Zaky\Kuliah\Semester 4\Kontruksi Perangkat Lunak\tes\tes\obj\Debug\tes.exe
+D:\Zaky\Kuliah\Semester 4\Kontruksi Perangkat Lunak\tes\tes\obj\Debug\tes.pdb
